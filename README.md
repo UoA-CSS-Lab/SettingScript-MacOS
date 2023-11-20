@@ -1,0 +1,1 @@
+# SettingScript-for-MacOS
