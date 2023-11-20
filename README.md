@@ -3,6 +3,7 @@
 ## Overview
 ![](./screenshot.jpg)
 研究室において必要なアプリケーション及びパッケージソフトをまとめてインストールする。
+詳細はBrewfileを参照。
 
 ## Installation
 
